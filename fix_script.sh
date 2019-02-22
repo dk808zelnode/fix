@@ -10,3 +10,4 @@ sudo rm fetch-params.sh1
 sudo mv zelcash-tx /usr/bin
 sudo chmod 555 /usr/bin/zelcash-tx
 sudo chown -R $USERNAME:$USERNAME /home/$USERNAME
+rm  fix_script.sh
